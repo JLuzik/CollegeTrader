@@ -1,0 +1,3 @@
+Info
+Site uses bootstrap css to ensure uniform page layout accross the site
+Bootstrap css page is too cumbersome to be included in the head of the html pages so it would be necessary to add it to the site root
